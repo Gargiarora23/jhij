@@ -1,0 +1,55 @@
+body
+{
+    background-color: rgb(19, 26, 107);
+} 
+.portfolio
+{
+    font-size: 30px;
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.stellar
+{
+    color: rgb(248, 7, 7);
+    font-size: 50px;
+    font-weight: bolder;
+}
+.menu
+{
+    display: flex;
+    margin-right:40px;
+}
+.items
+{
+    margin-right:20px;
+    border: 3px dotted black;
+    box-shadow: 4px 4px 4px rgb(241, 5, 5);
+    color: rgb(253, 25, 8);
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h1
+{
+    font-size:120px;
+    margin-left: 200px;
+}
+
+.paragraph
+{
+    font-size:40px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(37, 37, 143);
+}
+
+.but
+{
+    font-size: 40px;
+    margin-left: 300px;
+    font-weight: bolder;
+    box-shadow: 6px 6px 4px grey;
+    border: 3px dashed ;
+}

@@ -1,0 +1,125 @@
+
+h1
+{
+color:white;
+text-shadow: 9px 5px 4px rgb(161, 174, 223);
+font-weight: bolder;
+font-size: 80px;
+font-style: italic;
+text-align: center;
+background-color: rgb(1, 1, 11);
+}
+
+.img img
+{
+   width:800px; 
+   margin-left:340px;
+}
+
+h2
+{
+background-color: rgb(3, 1, 19);
+color: aliceblue;
+text-align: center;
+text-shadow: 5px 4px 4px rgb(161, 174, 223);
+font-size: 50px;
+}
+
+.A
+{
+    background-color: rgb(16, 15, 125);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    font-weight: bolder;
+    text-shadow: 3px 4px 5px black;
+}
+.B
+{
+    background-color: rgb(27, 24, 167);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+}
+.C
+{
+    background-color: rgb(58, 55, 230);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    font-weight: bolder;
+    margin-top: 3px;
+    text-shadow: 5px 3px 3px black;
+}
+.D
+{
+    background-color: rgb(85, 82, 252);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    font-weight: bolder;
+    margin-top: 3px;
+    text-shadow: 5px 3px 3px black;
+}
+.E
+{
+    background-color: rgb(112, 109, 252);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+}
+.F
+{
+    background-color: rgb(138, 136, 244);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+}
+.G
+{
+    background-color: rgb(155, 155, 241);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+}
+.H
+{
+    background-color: rgb(176, 175, 245);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+}
+.I
+{
+    background-color: rgb(194, 193, 250);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+}
+
+.image img
+{
+    width: 400px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 510px;
+}

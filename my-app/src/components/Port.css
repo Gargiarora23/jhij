@@ -1,8 +1,8 @@
 body
 {
-    background-color: rgb(19, 26, 107);
+    background-image:linear-gradient(black,rgb(9, 13, 77),rgb(30, 30, 137),rgb(18, 61, 88), rgb(25, 107, 158),rgb(16, 65, 241),black);
 } 
-.portfolio
+.port
 {
     font-size: 30px;
     font-style: italic;
@@ -10,11 +10,12 @@ body
     flex-direction: row;
     justify-content: space-between;
 }
-.stellar
+.portfolio
 {
-    color: rgb(248, 7, 7);
+    color:rgb(246, 241, 233);
     font-size: 50px;
     font-weight: bolder;
+    text-shadow: 4px 4px 4px grey;
 }
 .menu
 {
@@ -23,33 +24,65 @@ body
 }
 .items
 {
+    background: none;
     margin-right:20px;
-    border: 3px dotted black;
-    box-shadow: 4px 4px 4px rgb(241, 5, 5);
-    color: rgb(253, 25, 8);
+    border:none;
+    box-shadow: 4px 4px 4px rgb(236, 232, 232);
+    color: rgb(246, 240, 240);
     font-weight: bolder;
     font-size: 30px;
+    
 }
 
 h1
 {
     font-size:120px;
-    margin-left: 200px;
+    margin-left: 100px;
+    color: beige;
 }
 
 .paragraph
 {
-    font-size:40px;
+     font-size:25px; 
     font-weight: bold;
     font-style: italic;
-    color: rgb(37, 37, 143);
+    color: rgb(242, 242, 242);
 }
 
 .but
 {
+    margin-top: 60px;
     font-size: 40px;
     margin-left: 300px;
     font-weight: bolder;
-    box-shadow: 6px 6px 4px grey;
-    border: 3px dashed ;
+    box-shadow: 7px 7px 5px rgb(255, 251, 251);
+    border: 2px solid black;
+    color: aliceblue;
+    background: none;
+}
+
+h2
+{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+h3
+{
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 1000px;
+
+}
+
+.content
+{
+    color: white;
+    margin-left: 1000px;
+    margin-top:-20px;
 }

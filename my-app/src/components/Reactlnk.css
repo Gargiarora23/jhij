@@ -1,0 +1,35 @@
+h1
+{
+color:white;
+text-shadow: 9px 5px 4px rgb(161, 174, 223);
+font-weight: bolder;
+font-size: 80px;
+font-style: italic;
+text-align: center;
+background-color: rgb(1, 1, 11);
+}
+.A
+{
+    background-color: rgb(16, 15, 125);
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    font-weight: bolder;
+    text-shadow: 3px 4px 5px black;
+}
+.A button.a
+{
+margin-left:90px;
+font-size: 20px;
+background-color: rgb(150, 252, 54);
+text-shadow: 2px 2px 4px rgb(122, 119, 119);
+font-weight: bolder;
+}
+
+.A button
+{
+    font-size: 20px;
+    background-color: rgb(150, 252, 54);
+    text-shadow: 2px 2px 4px rgb(122, 119, 119);
+    font-weight: bolder;
+    margin: 5px;
+}

@@ -1,24 +1,26 @@
 import React from 'react'
 import './Navbar.css';
- import img from './imag.webp';
+//  import img from './imag.webp';
 
-export const Navbar2 = () => 
+export const Navbar2 = (props) => 
     {
+      // console.log(props.ggg);
   return (
     <>
-    <div>
-     <img src={img} alt='image not found'/> </div>
-         <div className="navbar">
-        <div className="logo">LOGO</div>
+ Navbar
+   <div className="navbar">
+        {/* <div className="logo">{props.name}</div> */}
         <div className="menu">
 
-          <div className="items">HOME</div>
-          <div className="items">ABOUT US</div>
-          <div className="items">MORE</div>
-          <div className="items">INFO</div>
-          <div className="items">CONTACT US</div>
+          <div className="items"></div>
+          {/* <div className="items">{props.ggg[1]}</div>
+          <div className="items">{props.ggg[2]}</div>
+          <div className="items">{props.ggg[3]}</div>
+          <div className="items">{props.ggg[4]}</div> */}
         </div>
       </div>
+
+
       </>
   )
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Propsjs = () => {
+export const Props = () => {
   return (
     <>
 - Props are arguments passed into React components.

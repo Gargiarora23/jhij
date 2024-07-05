@@ -1,0 +1,124 @@
+h1
+{
+background-color: rgb(3, 1, 19);
+color: aliceblue;
+text-align: center;
+text-shadow: 5px 4px 4px rgb(161, 174, 223);
+font-size: 50px;
+}
+
+.questions-slide
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(1, 18, 18, 0.979);
+}
+.A
+{
+    background-color: rgb(16, 15, 125);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 20px;
+    font-weight: bolder;
+    text-shadow: 3px 4px 5px black;
+    width: 100%;
+}
+.B
+{
+    background-color: rgb(27, 24, 167);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    /* font-weight: bolder;
+    text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.C
+{
+    background-color: rgb(58, 55, 230);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    /* font-weight: bolder; */
+    margin-top: 3px;
+    /* text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.D
+{
+    background-color: rgb(85, 82, 252);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    /* font-weight: bolder; */
+    margin-top: 3px;
+    /* text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.E
+{
+    background-color: rgb(112, 109, 252);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    /* text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.F
+{
+    background-color: rgb(138, 136, 244);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    /* font-weight: bolder; */
+    /* text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.G
+{
+    background-color: rgb(155, 155, 241);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    /* font-weight: bolder;
+    text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.H
+{
+    background-color: rgba(241, 12, 12, 0.863);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    /* font-weight: bolder;
+    text-shadow: 5px 3px 3px black; */
+    width: 100%;
+}
+.I
+{
+    background-color: rgba(250, 34, 34, 0.687);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 100%;
+}
+
+.J
+{
+    background-color: rgba(244, 125, 125, 0.963);
+    text-align: center;
+    color: rgb(243, 246, 247);
+    font-size: 26px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: bolder;
+    text-shadow: 5px 3px 3px black;
+    width: 100%;
+}

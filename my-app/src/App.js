@@ -77,13 +77,8 @@
 //  );
 //   } 
 // export default App;
-import React, { useMemo, useState } from "react";
-import { Repo } from "./components/Repo";
+// import React, { useMemo, useState } from "react";
 
- 
-function App() 
-{
-      <Repo/>
 //     const [number, setNumber] = useState(0);
 // //     const squaredNum = squareNum(number);
 // const squaredNum = useMemo(() => {
@@ -124,5 +119,13 @@ function App()
 //     return Math.pow(number, 2);
 // }
  
+import React from 'react'
+import { Repo } from './components/Repo';
+
+export const App = () => {
+  return (
+   <Repo/>
+  )
 }
+
 export default App;

@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
-import { Quotes } from './Quotes'; 
+import {Quotes}  from './Quotes'; 
 import './Cardd.css';
 
 export const Card = () => {
   const [quote, setQuote] = useState(Quotes[0]);
+
+  console.log('quotes=>',Quotes[0]);
 
   const getQuotes = () => {
     setQuote(Quotes[Math.floor(Math.random() * Quotes.length)]);
@@ -25,8 +27,9 @@ export const Card = () => {
         <h3 className="back">HAPPY BIRTHDAY Babes!</h3>
         <p>Dear Friend,</p>
         <p>
-          Happy birthday!! I hope your day is filled with lots of love and
-          laughter! May all of your birthday wishes come true.
+          {/* Happy birthday!! I hope your day is filled with lots of love and
+          laughter! May all of your birthday wishes come true. */}
+          {quote}
         </p>
         <p className="name">Gargi</p>
         <p className="quote">{quote}</p>

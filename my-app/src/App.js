@@ -121,10 +121,13 @@
  
 import React from 'react'
 import { Repo } from './components/Repo';
+import { Appointment } from './Appointment';
 
 export const App = () => {
   return (
-   <Repo/>
+  //  <Repo/>
+  <Appointment/>
+
   )
 }
 
